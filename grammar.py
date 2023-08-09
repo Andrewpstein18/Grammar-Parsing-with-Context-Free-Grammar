@@ -1,6 +1,5 @@
 """
 COMS W4705 - Natural Language Processing - Spring 2023
-Homework 2 - Parsing with Context Free Grammars 
 Andrew Stein
 UNI: APS2231
 """
